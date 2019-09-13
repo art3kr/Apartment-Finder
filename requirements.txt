@@ -1,0 +1,10 @@
+json
+requests
+pickle
+re
+bs4
+datetime
+configparser
+os
+gspread
+oauth2client.service_account
